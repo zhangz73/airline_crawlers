@@ -12,7 +12,8 @@ from joblib import Parallel, delayed
 cpu_count = multiprocessing.cpu_count()
 
 session = HTMLSession()
-#driver = webdriver.Chrome('/Users/zhangji/Desktop/installers/chromedriver')
+
+base_dir = '/Users/zhangji/Desktop/installers/chromedriver'
 
 all_data = []
 
@@ -58,7 +59,7 @@ def get_single_page(url, origin, destination, travel_date, idx):
             if idx % 250 == 0:
                 driver.close()
                 driver.quit()
-                driver = webdriver.Chrome('/Users/zhangji/Desktop/installers/chromedriver')
+                driver = webdriver.Chrome(base_dir)
 
         except:
             print(idx)
@@ -103,7 +104,7 @@ def all_jobs_per_cpu(date, places):
     global all_data
     infos = []
     cnt = 0
-    driver = webdriver.Chrome('/Users/zhangji/Desktop/installers/chromedriver')
+    driver = webdriver.Chrome(base_dir)
     for d in date:
         print("We are crawling date " + str(d))
         for orig in places:
@@ -118,7 +119,7 @@ def all_jobs_per_cpu(date, places):
                     if cnt % 10 == 0:
                         driver.close()
                         driver.quit()
-                        driver = webdriver.Chrome('/Users/zhangji/Desktop/installers/chromedriver')
+                        driver = webdriver.Chrome(base_dir)
     for infs in infos:
         all_data.append(infs)
     driver.close()
