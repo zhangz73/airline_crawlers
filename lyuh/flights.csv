@@ -1,0 +1,801 @@
+Origin,Destination,Date,Price ($),Num Stops,Connection,Duration (h),Departure,Arrival,Carrier
+SEA,LIH,2019-12-14,363,1,(SFO),9.52,1:18p,8:49p,United Airlines
+SEA,LIH,2019-12-14,367,2,"(SFO, LAX)",13.58,9:35a,9:10p,United Airlines
+SEA,LIH,2019-12-14,374,1,(LAX),17.63,5:50a,9:28p,American Airlines
+SEA,LIH,2019-12-14,377,1,(SAN),18.75,8:15p,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,387,1,(SAN),23.25,3:45p,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,390,0,(),6.08,5:35p,9:40p,Alaska Airlines
+SEA,LIH,2019-12-14,390,0,(),6.08,10:05a,2:10p,Alaska Airlines
+SEA,LIH,2019-12-14,393,1,(SFO),9.52,1:18p,8:49p,United Airlines
+SEA,LIH,2019-12-14,397,2,"(SFO, LAX)",13.58,9:35a,9:10p,United Airlines
+SEA,LIH,2019-12-14,397,1,(LAX),30.12,5:21p,9:28p,American Airlines
+SEA,LIH,2019-12-14,397,1,(SAN),18.75,8:15p,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,407,1,(LAX),13.05,10:25a,9:28p,American Airlines
+SEA,LIH,2019-12-14,409,1,(SAN),23.25,3:45p,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,411,1,(SAN),27.08,11:55a,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,412,1,(SJC),18.92,7:45p,12:40p,Alaska Airlines
+SEA,LIH,2019-12-14,417,2,"(SFO, LAX)",13.58,9:35a,9:10p,United Airlines
+SEA,LIH,2019-12-14,420,1,(SFO),17.17,9:30p,12:40p,Alaska Airlines
+SEA,LIH,2019-12-14,423,1,(LAX),17.63,5:50a,9:28p,American Airlines
+SEA,LIH,2019-12-14,427,1,(SAN),25.08,1:55p,1:00p,Alaska Airlines
+SEA,LIH,2019-12-14,433,1,(LAX),9.92,1:15p,9:10p,United Airlines
+SEA,LIH,2019-12-15,313,1,(SJC),17.92,7:45p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,321,1,(LAX),20.13,8:00p,2:08p,American Airlines
+SEA,LIH,2019-12-15,322,1,(SJC),21.58,4:05p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,325,1,(SFO),15.17,10:30p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,332,1,(LAX),26.80,1:20p,2:08p,American Airlines
+SEA,LIH,2019-12-15,332,1,(LAX),27.47,8:00p,9:28p,American Airlines
+SEA,LIH,2019-12-15,334,1,(SJC),17.92,7:45p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,339,1,(SJC),17.00,8:40p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,345,1,(SJC),21.58,4:05p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,350,1,(SJC),19.92,5:45p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,352,1,(SFO),15.17,10:30p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,359,1,(SJC),17.00,8:40p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,369,1,(SJC),23.33,2:20p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,370,1,(LAX),20.13,8:00p,2:08p,American Airlines
+SEA,LIH,2019-12-15,371,1,(SJC),19.92,5:45p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,389,1,(SJC),23.33,2:20p,11:40a,Alaska Airlines
+SEA,LIH,2019-12-15,390,1,(LAX),17.63,5:50a,9:28p,American Airlines
+SEA,LIH,2019-12-15,390,0,(),6.08,5:35p,9:40p,Alaska Airlines
+SEA,LIH,2019-12-15,390,0,(),6.08,10:05a,2:10p,Alaska Airlines
+SEA,LIH,2019-12-15,392,1,(LAX),22.78,5:21p,2:08p,American Airlines
+SEA,HNL,2019-12-14,317,1,(SJC),17.33,7:45p,11:05a,Alaska Airlines
+SEA,HNL,2019-12-14,343,1,(LAX),20.78,5:21p,12:08p,American Airlines
+SEA,HNL,2019-12-14,354,1,(LAX),26.73,5:21p,6:05p,American Airlines
+SEA,HNL,2019-12-14,364,2,"(LGB, SFO)",24.90,2:41p,1:35p,Jetblue Airways
+SEA,HNL,2019-12-14,377,1,(SAN),17.75,8:15p,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,387,1,(SAN),22.25,3:45p,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,393,2,"(YVR, YEG)",15.13,7:40a,8:48p,Westjet
+SEA,HNL,2019-12-14,397,1,(SAN),17.75,8:15p,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,409,1,(SFO),9.58,6:00a,1:35p,Alaska Airlines
+SEA,HNL,2019-12-14,409,1,(SFO),15.67,9:30p,11:10a,Alaska Airlines
+SEA,HNL,2019-12-14,409,1,(SAN),22.25,3:45p,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,411,1,(SAN),26.08,11:55a,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,420,1,(SFO),20.17,6:27p,12:37p,United Airlines
+SEA,HNL,2019-12-14,427,1,(LAX),15.67,9:20p,11:00a,Alaska Airlines
+SEA,HNL,2019-12-14,429,1,(LAX),18.33,9:20p,1:40p,Alaska Airlines
+SEA,HNL,2019-12-14,431,1,(SAN),26.08,11:55a,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,437,1,(SAN),24.08,1:55p,12:00p,Alaska Airlines
+SEA,HNL,2019-12-14,439,1,(LGB),22.32,2:41p,11:00a,Jetblue Airways
+SEA,HNL,2019-12-14,439,1,(LAX),23.92,3:45p,1:40p,Alaska Airlines
+SEA,HNL,2019-12-14,441,0,(),6.00,5:30p,9:30p,Alaska Airlines
+SEA,HNL,2019-12-15,343,1,(LAX),18.13,8:00p,12:08p,American Airlines
+SEA,HNL,2019-12-15,343,1,(LAX),20.32,5:50a,12:09a,American Airlines
+SEA,HNL,2019-12-15,344,1,(OGG),8.08,10:00a,4:05p,Hawaiian Airlines
+SEA,HNL,2019-12-15,344,1,(OGG),8.08,10:00a,4:05p,Hawaiian Airlines
+SEA,HNL,2019-12-15,354,1,(LAX),24.08,8:00p,6:05p,American Airlines
+SEA,HNL,2019-12-15,354,1,(LAX),24.80,1:20p,12:08p,American Airlines
+SEA,HNL,2019-12-15,356,1,(PHX),24.17,5:55p,4:05p,American Airlines
+SEA,HNL,2019-12-15,364,2,"(LGB, SFO)",24.90,2:41p,1:35p,Jetblue Airways
+SEA,HNL,2019-12-15,372,1,(SJC),17.33,7:45p,11:05a,Alaska Airlines
+SEA,HNL,2019-12-15,379,1,(SFO),14.67,10:30p,11:10a,Alaska Airlines
+SEA,HNL,2019-12-15,395,1,(SFO),25.60,1:01p,12:37p,United Airlines
+SEA,HNL,2019-12-15,398,1,(SJC),16.42,8:40p,11:05a,Alaska Airlines
+SEA,HNL,2019-12-15,400,1,(OGG),11.38,10:00a,7:23p,Hawaiian Airlines
+SEA,HNL,2019-12-15,400,1,(OGG),11.38,10:00a,7:23p,Hawaiian Airlines
+SEA,HNL,2019-12-15,407,1,(OGG),22.90,10:00a,6:54a,Hawaiian Airlines
+SEA,HNL,2019-12-15,409,1,(SFO),9.58,6:00a,1:35p,Alaska Airlines
+SEA,HNL,2019-12-15,411,1,(SFO),9.08,1:01p,8:06p,United Airlines
+SEA,HNL,2019-12-15,412,1,(SFO),8.62,6:00a,12:37p,United Airlines
+SEA,HNL,2019-12-15,414,1,(SFO),19.12,7:30p,12:37p,United Airlines
+SEA,HNL,2019-12-15,417,1,(LGB),16.58,6:30a,9:05p,Jetblue Airways
+SEA,OGG,2019-12-14,367,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-14,367,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-14,381,0,(),6.17,5:45p,9:55p,Alaska Airlines
+SEA,OGG,2019-12-14,384,0,(),6.42,10:00a,2:25p,Hawaiian Airlines
+SEA,OGG,2019-12-14,384,0,(),6.42,10:00a,2:25p,Hawaiian Airlines
+SEA,OGG,2019-12-14,390,1,(SFO),29.10,6:27p,9:33p,United Airlines
+SEA,OGG,2019-12-14,393,1,(PHX),12.00,8:15a,6:15p,American Airlines
+SEA,OGG,2019-12-14,396,1,(SFO),15.00,9:30p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-14,399,1,(SFO),16.67,9:30p,12:10p,Alaska Airlines
+SEA,OGG,2019-12-14,402,1,(SJC),16.75,7:45p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-14,402,1,(OAK),20.33,4:05p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-14,405,1,(SFO),21.00,3:30p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-14,412,2,"(LAS, HNL)",12.02,9:50p,7:51a,Alaska Airlines
+SEA,OGG,2019-12-14,412,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-14,412,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-14,416,1,(SFO),15.00,9:30p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-14,422,1,(SJC),16.75,7:45p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-14,423,1,(SFO),10.25,1:18p,9:33p,United Airlines
+SEA,OGG,2019-12-14,424,1,(SAN),16.92,8:15p,11:10a,Alaska Airlines
+SEA,OGG,2019-12-14,424,1,(LAX),27.48,7:00p,8:29p,United Airlines
+SEA,OGG,2019-12-15,277,1,(SJC),16.67,7:45p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,280,1,(SFO),13.92,10:30p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,289,1,(OAK),14.75,9:40p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,301,1,(OAK),14.75,9:40p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,305,1,(SJC),15.75,8:40p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,305,1,(SJC),16.67,7:45p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,307,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-15,307,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-15,310,1,(SFO),16.92,7:30p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,312,1,(SFO),13.92,10:30p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,331,1,(SJC),15.75,8:40p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,334,1,(OAK),20.33,4:05p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,341,1,(SFO),16.92,7:30p,10:25a,Alaska Airlines
+SEA,OGG,2019-12-15,352,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-15,352,2,"(SFO, LAX)",12.90,9:35a,8:29p,United Airlines
+SEA,OGG,2019-12-15,357,1,(SAN),25.00,11:55a,10:55a,Alaska Airlines
+SEA,OGG,2019-12-15,357,1,(SJC),18.33,7:45p,12:05p,Alaska Airlines
+SEA,OGG,2019-12-15,365,1,(SFO),25.20,1:01p,12:13p,United Airlines
+SEA,OGG,2019-12-15,366,1,(SFO),14.00,10:30p,10:30a,Alaska Airlines
+SEA,OGG,2019-12-15,367,1,(SJC),22.00,4:05p,12:05p,Alaska Airlines
+SEA,ITO,2019-12-14,372,2,"(SFO, LAX)",13.15,9:35a,8:44p,United Airlines
+SEA,ITO,2019-12-14,377,2,"(SFO, LAX)",15.23,7:30a,8:44p,United Airlines
+SEA,ITO,2019-12-14,417,2,"(SFO, LAX)",13.15,9:35a,8:44p,United Airlines
+SEA,ITO,2019-12-14,431,2,"(SFO, LAX)",13.15,9:35a,8:44p,United Airlines
+SEA,ITO,2019-12-14,436,2,"(SFO, LAX)",15.23,7:30a,8:44p,United Airlines
+SEA,ITO,2019-12-14,447,2,"(LAX, HNL)",18.98,9:20p,2:19p,Alaska Airlines
+SEA,ITO,2019-12-14,457,1,(LAX),9.48,1:15p,8:44p,United Airlines
+SEA,ITO,2019-12-14,476,2,"(SFO, LAX)",13.15,9:35a,8:44p,United Airlines
+SEA,ITO,2019-12-14,477,2,"(SFO, LAX)",15.23,7:30a,8:44p,United Airlines
+SEA,ITO,2019-12-14,494,1,(OGG),9.83,10:00a,5:50p,Hawaiian Airlines
+SEA,ITO,2019-12-14,494,1,(OGG),9.83,10:00a,5:50p,Hawaiian Airlines
+SEA,ITO,2019-12-14,502,1,(LAX),9.48,1:15p,8:44p,United Airlines
+SEA,ITO,2019-12-14,507,1,(OGG),24.62,10:00a,8:37a,Hawaiian Airlines
+SEA,ITO,2019-12-14,507,1,(OGG),24.62,10:00a,8:37a,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-14,522,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,437,2,"(OGG, HNL)",11.23,10:00a,7:14p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,451,2,"(OGG, HNL)",10.58,10:00a,6:35p,Hawaiian Airlines
+SEA,ITO,2019-12-15,452,1,(OGG),9.83,10:00a,5:50p,Hawaiian Airlines
+SEA,ITO,2019-12-15,452,1,(OGG),9.83,10:00a,5:50p,Hawaiian Airlines
+SEA,ITO,2019-12-15,463,1,(LAX),27.73,7:00p,8:44p,United Airlines
+SEA,ITO,2019-12-15,494,1,(OGG),24.62,10:00a,8:37a,Hawaiian Airlines
+SEA,ITO,2019-12-15,505,2,"(SFO, HNL)",17.82,10:30p,2:19p,Alaska Airlines
+SEA,ITO,2019-12-15,506,2,"(SFO, HNL)",12.48,6:00a,4:29p,United Airlines
+SEA,ITO,2019-12-15,509,2,"(LAX, HNL)",16.70,5:50a,8:32p,American Airlines
+SEA,ITO,2019-12-15,522,2,"(PDX, HNL)",19.23,11:15p,4:29p,Alaska Airlines
+LIH,SEA,2019-12-14,234,0,(),5.67,10:45p,6:25a,Alaska Airlines
+LIH,SEA,2019-12-14,239,1,(LAX),11.92,10:57p,12:52p,American Airlines
+LIH,SEA,2019-12-14,258,0,(),5.67,10:45p,6:25a,Alaska Airlines
+LIH,SEA,2019-12-14,269,1,(SFO),8.65,10:05p,8:44a,United Airlines
+LIH,SEA,2019-12-14,269,1,(PHX),12.68,11:00p,1:41p,American Airlines
+LIH,SEA,2019-12-14,277,2,"(HNL, SFO)",11.73,7:00p,8:44a,United Airlines
+LIH,SEA,2019-12-14,288,1,(SJC),15.25,3:20p,8:35a,Alaska Airlines
+LIH,SEA,2019-12-14,295,1,(LAX),16.00,10:57p,4:57p,American Airlines
+LIH,SEA,2019-12-14,295,1,(LAX),16.43,3:26p,9:52a,American Airlines
+LIH,SEA,2019-12-14,295,1,(PHX),15.85,11:00p,4:51p,American Airlines
+LIH,SEA,2019-12-14,297,1,(HNL),21.00,11:05p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-14,297,1,(HNL),21.00,11:05p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-14,299,1,(SFO),8.65,10:05p,8:44a,United Airlines
+LIH,SEA,2019-12-14,300,1,(SJC),14.67,3:20p,8:00a,Alaska Airlines
+LIH,SEA,2019-12-14,302,1,(SJC),19.25,3:20p,12:35p,Alaska Airlines
+LIH,SEA,2019-12-14,317,1,(OAK),13.67,4:40p,8:20a,Alaska Airlines
+LIH,SEA,2019-12-14,323,1,(SJC),15.25,3:20p,8:35a,Alaska Airlines
+LIH,SEA,2019-12-14,325,1,(PHX),19.00,11:00p,8:00p,American Airlines
+LIH,SEA,2019-12-14,326,1,(OAK),20.25,4:40p,2:55p,Alaska Airlines
+LIH,SEA,2019-12-14,329,1,(OAK),15.50,2:50p,8:20a,Hawaiian Airlines
+LIH,SEA,2019-12-15,234,0,(),5.67,10:45p,6:25a,Alaska Airlines
+LIH,SEA,2019-12-15,258,0,(),5.67,10:45p,6:25a,Alaska Airlines
+LIH,SEA,2019-12-15,266,1,(HNL),21.00,11:05p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,266,1,(HNL),21.00,11:05p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,269,1,(LAX),11.92,10:57p,12:52p,American Airlines
+LIH,SEA,2019-12-15,277,2,"(HNL, SFO)",11.63,11:21a,12:59a,United Airlines
+LIH,SEA,2019-12-15,277,2,"(HNL, SFO)",11.73,7:00p,8:44a,United Airlines
+LIH,SEA,2019-12-15,289,1,(HNL),7.90,12:11p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,289,1,(HNL),7.90,12:11p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,295,1,(LAX),16.43,3:26p,9:52a,American Airlines
+LIH,SEA,2019-12-15,295,1,(LAX),18.67,10:57p,7:37p,American Airlines
+LIH,SEA,2019-12-15,303,2,"(HNL, SFO)",14.25,7:00p,11:15a,United Airlines
+LIH,SEA,2019-12-15,305,1,(LAX),22.00,10:57p,10:57p,American Airlines
+LIH,SEA,2019-12-15,305,1,(LAX),26.18,3:26p,7:37p,American Airlines
+LIH,SEA,2019-12-15,317,1,(SAN),17.17,2:00p,9:10a,Alaska Airlines
+LIH,SEA,2019-12-15,324,1,(HNL),25.83,6:15p,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,325,1,(LAX),16.00,10:57p,4:57p,American Airlines
+LIH,SEA,2019-12-15,328,1,(SAN),22.33,2:00p,2:20p,Alaska Airlines
+LIH,SEA,2019-12-15,328,1,(HNL),13.55,6:32a,10:05p,Hawaiian Airlines
+LIH,SEA,2019-12-15,328,1,(HNL),13.55,6:32a,10:05p,Hawaiian Airlines
+LIH,HNL,2019-12-14,81,0,(),0.62,11:05p,11:42p,Hawaiian Airlines
+LIH,HNL,2019-12-14,81,0,(),0.62,11:05p,11:42p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.58,8:25p,9:00p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.58,8:25p,9:00p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.58,9:23p,9:58p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.58,9:23p,9:58p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.62,4:59p,5:36p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.62,4:59p,5:36p,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.60,6:32a,7:08a,Hawaiian Airlines
+LIH,HNL,2019-12-14,85,0,(),0.60,6:32a,7:08a,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,5:35p,6:11p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,5:35p,6:11p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,6:15p,6:51p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,6:15p,6:51p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,6:35p,7:11p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.60,6:35p,7:11p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.62,4:15p,4:52p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.62,4:15p,4:52p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.62,7:00p,7:37p,Hawaiian Airlines
+LIH,HNL,2019-12-14,96,0,(),0.62,7:00p,7:37p,Hawaiian Airlines
+LIH,HNL,2019-12-15,81,0,(),0.62,11:05p,11:42p,Hawaiian Airlines
+LIH,HNL,2019-12-15,81,0,(),0.62,11:05p,11:42p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,8:25p,9:00p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,8:25p,9:00p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,9:23p,9:58p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,9:23p,9:58p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,9:56p,10:31p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.58,9:56p,10:31p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.62,4:59p,5:36p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.62,4:59p,5:36p,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.60,6:32a,7:08a,Hawaiian Airlines
+LIH,HNL,2019-12-15,85,0,(),0.60,6:32a,7:08a,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,5:35p,6:11p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,5:35p,6:11p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,6:15p,6:51p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,6:15p,6:51p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,6:35p,7:11p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.60,6:35p,7:11p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.62,4:15p,4:52p,Hawaiian Airlines
+LIH,HNL,2019-12-15,101,0,(),0.62,4:15p,4:52p,Hawaiian Airlines
+LIH,OGG,2019-12-14,124,0,(),0.78,2:25p,3:12p,Hawaiian Airlines
+LIH,OGG,2019-12-14,124,0,(),0.78,2:25p,3:12p,Hawaiian Airlines
+LIH,OGG,2019-12-14,133,0,(),0.82,11:31a,12:20p,Hawaiian Airlines
+LIH,OGG,2019-12-14,133,0,(),0.82,11:31a,12:20p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.77,1:50p,3:36p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.77,1:50p,3:36p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.70,7:19a,9:01a,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.70,7:19a,9:01a,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.85,4:59p,6:50p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.85,4:59p,6:50p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.85,7:00p,8:51p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.85,7:00p,8:51p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.88,6:35p,8:28p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.88,6:35p,8:28p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.80,6:32a,8:20a,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),1.80,6:32a,8:20a,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),2.00,4:15p,6:15p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),2.00,4:15p,6:15p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),2.22,8:25p,10:38p,Hawaiian Airlines
+LIH,OGG,2019-12-14,155,1,(HNL),2.22,8:25p,10:38p,Hawaiian Airlines
+LIH,OGG,2019-12-15,124,0,(),0.78,2:25p,3:12p,Hawaiian Airlines
+LIH,OGG,2019-12-15,124,0,(),0.78,2:25p,3:12p,Hawaiian Airlines
+LIH,OGG,2019-12-15,124,0,(),0.82,11:31a,12:20p,Hawaiian Airlines
+LIH,OGG,2019-12-15,124,0,(),0.82,11:31a,12:20p,Hawaiian Airlines
+LIH,OGG,2019-12-15,133,0,(),0.82,10:01a,10:50a,Hawaiian Airlines
+LIH,OGG,2019-12-15,133,0,(),0.82,10:01a,10:50a,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.77,1:50p,3:36p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.77,1:50p,3:36p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.85,4:59p,6:50p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.85,4:59p,6:50p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.85,7:00p,8:51p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.85,7:00p,8:51p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.88,6:35p,8:28p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.88,6:35p,8:28p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.80,6:32a,8:20a,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),1.80,6:32a,8:20a,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),2.00,4:15p,6:15p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),2.00,4:15p,6:15p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),2.10,3:15p,5:21p,Hawaiian Airlines
+LIH,OGG,2019-12-15,155,1,(HNL),2.10,3:15p,5:21p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.13,12:11p,2:19p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.13,12:11p,2:19p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),1.95,7:19a,9:16a,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),1.95,7:19a,9:16a,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.30,5:35p,7:53p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.30,5:35p,7:53p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.33,4:15p,6:35p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.33,4:15p,6:35p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.40,8:47a,11:11a,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.40,8:47a,11:11a,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.65,1:50p,4:29p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(HNL),2.65,1:50p,4:29p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(OGG),3.42,2:25p,5:50p,Hawaiian Airlines
+LIH,ITO,2019-12-14,146,1,(OGG),3.42,2:25p,5:50p,Hawaiian Airlines
+LIH,ITO,2019-12-14,175,1,(HNL),1.93,3:15p,5:11p,Hawaiian Airlines
+LIH,ITO,2019-12-14,175,1,(HNL),1.93,3:15p,5:11p,Hawaiian Airlines
+LIH,ITO,2019-12-14,175,1,(HNL),6.77,11:05p,5:51a,Hawaiian Airlines
+LIH,ITO,2019-12-14,175,1,(HNL),6.77,11:05p,5:51a,Hawaiian Airlines
+LIH,ITO,2019-12-14,179,1,(HNL),8.47,9:23p,5:51a,Hawaiian Airlines
+LIH,ITO,2019-12-14,179,1,(HNL),8.47,9:23p,5:51a,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),1.93,3:15p,5:11p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),1.93,3:15p,5:11p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),1.95,6:35p,8:32p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),1.95,6:35p,8:32p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.13,12:11p,2:19p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.13,12:11p,2:19p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.25,4:59p,7:14p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.25,4:59p,7:14p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.30,5:35p,7:53p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.30,5:35p,7:53p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.65,1:50p,4:29p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.65,1:50p,4:29p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.73,6:32a,9:16a,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(HNL),2.73,6:32a,9:16a,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(OGG),3.42,2:25p,5:50p,Hawaiian Airlines
+LIH,ITO,2019-12-15,146,1,(OGG),3.42,2:25p,5:50p,Hawaiian Airlines
+LIH,ITO,2019-12-15,175,1,(HNL),2.40,8:47a,11:11a,Hawaiian Airlines
+LIH,ITO,2019-12-15,175,1,(HNL),2.40,8:47a,11:11a,Hawaiian Airlines
+LIH,ITO,2019-12-15,175,1,(HNL),6.77,11:05p,5:51a,Hawaiian Airlines
+LIH,ITO,2019-12-15,175,1,(HNL),6.77,11:05p,5:51a,Hawaiian Airlines
+HNL,SEA,2019-12-14,263,1,(SFO),8.45,8:00a,6:27p,United Airlines
+HNL,SEA,2019-12-14,263,1,(SFO),8.73,10:00p,8:44a,United Airlines
+HNL,SEA,2019-12-14,263,1,(LAX),9.38,7:00a,6:23p,United Airlines
+HNL,SEA,2019-12-14,263,1,(LAX),11.77,10:50p,12:36p,United Airlines
+HNL,SEA,2019-12-14,263,1,(LAX),16.62,10:20p,4:57p,American Airlines
+HNL,SEA,2019-12-14,263,1,(LAX),19.43,3:26p,12:52p,American Airlines
+HNL,SEA,2019-12-14,267,2,"(LAX, SFO)",12.92,7:00a,9:55p,United Airlines
+HNL,SEA,2019-12-14,272,1,(LAX),22.62,10:20p,10:57p,American Airlines
+HNL,SEA,2019-12-14,272,1,(LAX),23.52,3:26p,4:57p,American Airlines
+HNL,SEA,2019-12-14,272,1,(LAX),23.70,8:10a,9:52a,American Airlines
+HNL,SEA,2019-12-14,273,1,(SJC),14.92,3:40p,8:35a,Alaska Airlines
+HNL,SEA,2019-12-14,285,1,(SJC),14.33,3:40p,8:00a,Alaska Airlines
+HNL,SEA,2019-12-14,285,1,(SFO),14.95,10:00p,2:57p,United Airlines
+HNL,SEA,2019-12-14,285,1,(SFO),14.98,3:45p,8:44a,United Airlines
+HNL,SEA,2019-12-14,285,1,(SFO),15.42,2:35p,8:00a,Alaska Airlines
+HNL,SEA,2019-12-14,287,1,(SJC),18.92,3:40p,12:35p,Alaska Airlines
+HNL,SEA,2019-12-14,292,1,(SFO),16.00,2:35p,8:35a,Alaska Airlines
+HNL,SEA,2019-12-14,293,1,(LAX),12.78,8:10a,10:57p,American Airlines
+HNL,SEA,2019-12-14,293,1,(LAX),17.78,2:05p,9:52a,American Airlines
+HNL,SEA,2019-12-14,293,1,(PHX),20.00,10:00p,8:00p,American Airlines
+HNL,SEA,2019-12-15,254,0,(),5.67,10:20p,6:00a,Alaska Airlines
+HNL,SEA,2019-12-15,254,0,(),5.75,2:20p,10:05p,Hawaiian Airlines
+HNL,SEA,2019-12-15,254,0,(),5.75,2:20p,10:05p,Hawaiian Airlines
+HNL,SEA,2019-12-15,263,1,(SFO),8.45,8:00a,6:27p,United Airlines
+HNL,SEA,2019-12-15,263,1,(SFO),8.73,10:00p,8:44a,United Airlines
+HNL,SEA,2019-12-15,263,1,(SFO),9.07,1:55p,12:59a,United Airlines
+HNL,SEA,2019-12-15,263,1,(LAX),9.38,7:00a,6:23p,United Airlines
+HNL,SEA,2019-12-15,263,1,(LAX),11.77,10:50p,12:36p,United Airlines
+HNL,SEA,2019-12-15,263,1,(PHX),13.68,10:00p,1:41p,American Airlines
+HNL,SEA,2019-12-15,263,1,(LAX),16.62,10:20p,4:57p,American Airlines
+HNL,SEA,2019-12-15,267,2,"(SFO, LAX)",12.60,10:00p,12:36p,United Airlines
+HNL,SEA,2019-12-15,272,1,(LAX),22.62,10:20p,10:57p,American Airlines
+HNL,SEA,2019-12-15,272,1,(LAX),24.87,2:05p,4:57p,American Airlines
+HNL,SEA,2019-12-15,273,1,(SJC),14.92,3:40p,8:35a,Alaska Airlines
+HNL,SEA,2019-12-15,274,1,(PHX),23.43,10:00p,11:26p,American Airlines
+HNL,SEA,2019-12-15,277,0,(),5.67,10:20p,6:00a,Alaska Airlines
+HNL,SEA,2019-12-15,285,1,(SJC),14.33,3:40p,8:00a,Alaska Airlines
+HNL,SEA,2019-12-15,285,1,(SFO),11.92,8:00a,9:55p,United Airlines
+HNL,SEA,2019-12-15,285,1,(SFO),13.62,10:00p,1:37p,United Airlines
+HNL,SEA,2019-12-15,285,1,(SFO),14.98,3:45p,8:44a,United Airlines
+HNL,LIH,2019-12-14,81,0,(),0.67,5:24a,6:04a,Hawaiian Airlines
+HNL,LIH,2019-12-14,81,0,(),0.67,5:24a,6:04a,Hawaiian Airlines
+HNL,LIH,2019-12-14,85,0,(),0.68,6:10a,6:51a,Hawaiian Airlines
+HNL,LIH,2019-12-14,85,0,(),0.68,6:10a,6:51a,Hawaiian Airlines
+HNL,LIH,2019-12-14,95,0,(),0.68,9:55p,10:36p,Hawaiian Airlines
+HNL,LIH,2019-12-14,95,0,(),0.68,9:55p,10:36p,Hawaiian Airlines
+HNL,LIH,2019-12-14,96,0,(),0.70,9:29a,10:11a,Hawaiian Airlines
+HNL,LIH,2019-12-14,96,0,(),0.70,9:29a,10:11a,Hawaiian Airlines
+HNL,LIH,2019-12-14,106,0,(),0.68,10:22a,11:03a,Hawaiian Airlines
+HNL,LIH,2019-12-14,106,0,(),0.68,10:22a,11:03a,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.67,7:15p,7:55p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.67,7:15p,7:55p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.67,8:15p,8:55p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.67,8:15p,8:55p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.68,5:49p,6:30p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.68,5:49p,6:30p,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.72,11:00a,11:43a,Hawaiian Airlines
+HNL,LIH,2019-12-14,111,0,(),0.72,11:00a,11:43a,Hawaiian Airlines
+HNL,LIH,2019-12-14,116,0,(),0.70,8:51a,9:33a,Hawaiian Airlines
+HNL,LIH,2019-12-14,116,0,(),0.70,8:51a,9:33a,Hawaiian Airlines
+HNL,LIH,2019-12-15,81,0,(),0.67,5:24a,6:04a,Hawaiian Airlines
+HNL,LIH,2019-12-15,81,0,(),0.67,5:24a,6:04a,Hawaiian Airlines
+HNL,LIH,2019-12-15,85,0,(),0.67,8:48p,9:28p,Hawaiian Airlines
+HNL,LIH,2019-12-15,85,0,(),0.67,8:48p,9:28p,Hawaiian Airlines
+HNL,LIH,2019-12-15,100,0,(),0.68,9:55p,10:36p,Hawaiian Airlines
+HNL,LIH,2019-12-15,100,0,(),0.68,9:55p,10:36p,Hawaiian Airlines
+HNL,LIH,2019-12-15,101,0,(),0.68,10:22a,11:03a,Hawaiian Airlines
+HNL,LIH,2019-12-15,101,0,(),0.68,10:22a,11:03a,Hawaiian Airlines
+HNL,LIH,2019-12-15,101,0,(),0.70,9:29a,10:11a,Hawaiian Airlines
+HNL,LIH,2019-12-15,101,0,(),0.70,9:29a,10:11a,Hawaiian Airlines
+HNL,LIH,2019-12-15,111,0,(),0.72,11:00a,11:43a,Hawaiian Airlines
+HNL,LIH,2019-12-15,111,0,(),0.72,11:00a,11:43a,Hawaiian Airlines
+HNL,LIH,2019-12-15,116,0,(),0.68,5:04p,5:45p,Hawaiian Airlines
+HNL,LIH,2019-12-15,116,0,(),0.68,5:04p,5:45p,Hawaiian Airlines
+HNL,LIH,2019-12-15,116,0,(),0.68,5:49p,6:30p,Hawaiian Airlines
+HNL,LIH,2019-12-15,116,0,(),0.68,5:49p,6:30p,Hawaiian Airlines
+HNL,LIH,2019-12-15,121,0,(),0.67,7:15p,7:55p,Hawaiian Airlines
+HNL,LIH,2019-12-15,121,0,(),0.67,7:15p,7:55p,Hawaiian Airlines
+HNL,LIH,2019-12-15,121,0,(),0.67,8:15p,8:55p,Hawaiian Airlines
+HNL,LIH,2019-12-15,121,0,(),0.67,8:15p,8:55p,Hawaiian Airlines
+HNL,OGG,2019-12-14,70,0,(),0.92,5:05p,6:00p,Southern Airways Express
+HNL,OGG,2019-12-14,70,0,(),0.92,1:03p,1:58p,Southern Airways Express
+HNL,OGG,2019-12-14,70,0,(),1.00,10:25p,11:25p,Southern Airways Express
+HNL,OGG,2019-12-14,70,0,(),1.00,10:00a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.58,2:10p,3:45p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.58,9:25a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.55,6:02a,7:35a,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.67,5:15p,6:55p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.83,7:15p,9:05p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.92,10:55a,12:50p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.83,7:55a,9:45a,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),1.95,6:03p,8:00p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),2.67,2:10p,4:50p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),2.75,5:15p,8:00p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.00,3:55p,6:55p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.03,6:03p,9:05p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.08,7:55a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.42,9:25a,12:50p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.45,12:18p,3:45p,Southern Airways Express
+HNL,OGG,2019-12-14,74,1,(MKK),3.72,6:02a,9:45a,Southern Airways Express
+HNL,OGG,2019-12-15,70,0,(),0.92,5:05p,6:00p,Southern Airways Express
+HNL,OGG,2019-12-15,70,0,(),0.92,1:03p,1:58p,Southern Airways Express
+HNL,OGG,2019-12-15,70,0,(),1.00,10:25p,11:25p,Southern Airways Express
+HNL,OGG,2019-12-15,70,0,(),1.00,10:00a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.58,2:10p,3:45p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.58,9:25a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.55,6:02a,7:35a,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.67,5:15p,6:55p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.83,7:15p,9:05p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.92,10:55a,12:50p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.83,7:55a,9:45a,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),1.95,6:03p,8:00p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),2.67,2:10p,4:50p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),2.75,5:15p,8:00p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.00,3:55p,6:55p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.03,6:03p,9:05p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.08,7:55a,11:00a,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.42,9:25a,12:50p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.45,12:18p,3:45p,Southern Airways Express
+HNL,OGG,2019-12-15,74,1,(MKK),3.72,6:02a,9:45a,Southern Airways Express
+HNL,ITO,2019-12-14,101,0,(),0.85,5:00a,5:51a,Hawaiian Airlines
+HNL,ITO,2019-12-14,101,0,(),0.85,5:00a,5:51a,Hawaiian Airlines
+HNL,ITO,2019-12-14,106,0,(),0.93,6:57p,7:53p,Hawaiian Airlines
+HNL,ITO,2019-12-14,106,0,(),0.93,6:57p,7:53p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.90,5:41p,6:35p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.90,5:41p,6:35p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.92,9:07a,10:02a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.92,9:07a,10:02a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,8:20a,9:16a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,8:20a,9:16a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,10:15a,11:11a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,10:15a,11:11a,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,3:33p,4:29p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,3:33p,4:29p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,4:15p,5:11p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.93,4:15p,5:11p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.95,1:22p,2:19p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.95,1:22p,2:19p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.97,2:13p,3:11p,Hawaiian Airlines
+HNL,ITO,2019-12-14,116,0,(),0.97,2:13p,3:11p,Hawaiian Airlines
+HNL,ITO,2019-12-15,101,0,(),0.85,5:00a,5:51a,Hawaiian Airlines
+HNL,ITO,2019-12-15,101,0,(),0.85,5:00a,5:51a,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.93,6:18p,7:14p,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.93,6:18p,7:14p,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.93,6:57p,7:53p,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.93,6:57p,7:53p,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.90,7:10a,8:04a,Hawaiian Airlines
+HNL,ITO,2019-12-15,106,0,(),0.90,7:10a,8:04a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.90,5:41p,6:35p,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.90,5:41p,6:35p,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.92,9:07a,10:02a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.92,9:07a,10:02a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,8:20a,9:16a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,8:20a,9:16a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,10:15a,11:11a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,10:15a,11:11a,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,11:20a,12:16p,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,11:20a,12:16p,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,3:33p,4:29p,Hawaiian Airlines
+HNL,ITO,2019-12-15,121,0,(),0.93,3:33p,4:29p,Hawaiian Airlines
+OGG,SEA,2019-12-14,273,1,(SJC),15.08,3:30p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-14,273,1,(SFO),8.63,10:06p,8:44a,United Airlines
+OGG,SEA,2019-12-14,287,1,(SJC),19.08,3:30p,12:35p,Alaska Airlines
+OGG,SEA,2019-12-14,287,1,(PDX),7.00,11:25p,8:25a,Alaska Airlines
+OGG,SEA,2019-12-14,290,1,(SFO),13.67,4:20p,8:00a,Alaska Airlines
+OGG,SEA,2019-12-14,293,1,(PDX),20.50,11:25p,9:55p,Alaska Airlines
+OGG,SEA,2019-12-14,297,1,(SFO),14.25,4:20p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-14,299,1,(SJC),15.08,3:30p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-14,302,1,(SAN),16.67,2:30p,9:10a,Alaska Airlines
+OGG,SEA,2019-12-14,306,1,(OAK),13.42,4:55p,8:20a,Alaska Airlines
+OGG,SEA,2019-12-14,309,1,(PDX),7.00,11:25p,8:25a,Alaska Airlines
+OGG,SEA,2019-12-14,312,1,(SJC),19.08,3:30p,12:35p,Alaska Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.25,7:45p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.25,7:45p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.58,7:25p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.58,7:25p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.92,7:05p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",11.92,7:05p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",12.25,6:45p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-14,313,2,"(HNL, SFO)",12.25,6:45p,9:00a,Hawaiian Airlines
+OGG,SEA,2019-12-15,264,0,(),5.75,11:10p,6:55a,Alaska Airlines
+OGG,SEA,2019-12-15,268,1,(HNL),8.92,11:10a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,268,1,(HNL),8.92,11:10a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,268,1,(HNL),9.92,10:10a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,268,1,(HNL),9.92,10:10a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,273,1,(SFO),8.63,10:06p,8:44a,United Airlines
+OGG,SEA,2019-12-15,273,1,(SFO),9.23,1:45p,12:59a,United Airlines
+OGG,SEA,2019-12-15,273,1,(LAX),11.93,10:40p,12:36p,United Airlines
+OGG,SEA,2019-12-15,277,2,"(SFO, LAX)",12.50,10:06p,12:36p,United Airlines
+OGG,SEA,2019-12-15,282,1,(OAK),13.67,4:55p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-15,285,1,(OAK),13.08,4:55p,8:00a,Alaska Airlines
+OGG,SEA,2019-12-15,287,1,(PDX),9.25,11:25p,10:40a,Alaska Airlines
+OGG,SEA,2019-12-15,287,0,(),5.75,11:10p,6:55a,Alaska Airlines
+OGG,SEA,2019-12-15,290,1,(SFO),13.67,4:20p,8:00a,Alaska Airlines
+OGG,SEA,2019-12-15,293,1,(SJC),15.08,3:30p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-15,293,1,(PDX),19.00,11:25p,8:25p,Alaska Airlines
+OGG,SEA,2019-12-15,293,1,(HNL),8.17,11:55a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,293,1,(HNL),8.17,11:55a,10:05p,Hawaiian Airlines
+OGG,SEA,2019-12-15,297,1,(SFO),14.25,4:20p,8:35a,Alaska Airlines
+OGG,SEA,2019-12-15,301,1,(HNL),20.97,11:07p,10:05p,Hawaiian Airlines
+OGG,LIH,2019-12-14,124,0,(),0.85,2:06p,2:57p,Hawaiian Airlines
+OGG,LIH,2019-12-14,124,0,(),0.85,2:06p,2:57p,Hawaiian Airlines
+OGG,LIH,2019-12-14,124,0,(),0.85,3:40p,4:31p,Hawaiian Airlines
+OGG,LIH,2019-12-14,124,0,(),0.85,3:40p,4:31p,Hawaiian Airlines
+OGG,LIH,2019-12-14,133,0,(),0.78,12:35p,1:22p,Hawaiian Airlines
+OGG,LIH,2019-12-14,133,0,(),0.78,12:35p,1:22p,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.67,8:56p,10:36p,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.67,8:56p,10:36p,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.87,8:19a,10:11a,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.87,8:19a,10:11a,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.88,9:10a,11:03a,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),1.88,9:10a,11:03a,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),6.95,11:07p,6:04a,Hawaiian Airlines
+OGG,LIH,2019-12-14,155,1,(HNL),6.95,11:07p,6:04a,Hawaiian Airlines
+OGG,LIH,2019-12-14,159,1,(HNL),8.75,9:19p,6:04a,Hawaiian Airlines
+OGG,LIH,2019-12-14,159,1,(HNL),8.75,9:19p,6:04a,Hawaiian Airlines
+OGG,LIH,2019-12-14,162,1,(HNL),1.83,7:05p,8:55p,Hawaiian Airlines
+OGG,LIH,2019-12-14,162,1,(HNL),1.83,7:05p,8:55p,Hawaiian Airlines
+OGG,LIH,2019-12-14,162,1,(HNL),1.88,9:50a,11:43a,Hawaiian Airlines
+OGG,LIH,2019-12-14,162,1,(HNL),1.88,9:50a,11:43a,Hawaiian Airlines
+OGG,LIH,2019-12-15,124,0,(),0.78,12:35p,1:22p,Hawaiian Airlines
+OGG,LIH,2019-12-15,124,0,(),0.78,12:35p,1:22p,Hawaiian Airlines
+OGG,LIH,2019-12-15,124,0,(),0.85,2:06p,2:57p,Hawaiian Airlines
+OGG,LIH,2019-12-15,124,0,(),0.85,2:06p,2:57p,Hawaiian Airlines
+OGG,LIH,2019-12-15,141,0,(),0.85,3:40p,4:31p,Hawaiian Airlines
+OGG,LIH,2019-12-15,141,0,(),0.85,3:40p,4:31p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.67,8:56p,10:36p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.67,8:56p,10:36p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.72,7:45p,9:28p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.72,7:45p,9:28p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.87,8:19a,10:11a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.87,8:19a,10:11a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.88,9:10a,11:03a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.88,9:10a,11:03a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.88,9:50a,11:43a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),1.88,9:50a,11:43a,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),2.00,11:55a,1:55p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),2.00,11:55a,1:55p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),2.33,11:35a,1:55p,Hawaiian Airlines
+OGG,LIH,2019-12-15,155,1,(HNL),2.33,11:35a,1:55p,Hawaiian Airlines
+OGG,HNL,2019-12-14,70,0,(),1.00,8:40a,9:40a,Southern Airways Express
+OGG,HNL,2019-12-14,70,0,(),1.00,9:15p,10:15p,Southern Airways Express
+OGG,HNL,2019-12-14,70,0,(),1.00,12:00p,1:00p,Southern Airways Express
+OGG,HNL,2019-12-14,70,0,(),1.00,6:10a,7:10a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),1.55,10:20a,11:53a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),1.55,3:00p,4:33p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),1.57,7:30p,9:04p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),1.55,6:00a,7:33a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),1.55,7:25a,8:58a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.22,2:20p,4:33p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.30,10:20a,12:38p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.22,7:25a,9:38a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.57,11:25a,1:59p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.57,6:30p,9:04p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.63,3:00p,5:38p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),2.97,6:00a,8:58a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),3.30,2:20p,5:38p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),3.55,8:20a,11:53a,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),3.65,10:20a,1:59p,Southern Airways Express
+OGG,HNL,2019-12-14,74,1,(MKK),3.63,6:00a,9:38a,Southern Airways Express
+OGG,HNL,2019-12-15,70,0,(),1.00,8:40a,9:40a,Southern Airways Express
+OGG,HNL,2019-12-15,70,0,(),1.00,9:15p,10:15p,Southern Airways Express
+OGG,HNL,2019-12-15,70,0,(),1.00,12:00p,1:00p,Southern Airways Express
+OGG,HNL,2019-12-15,70,0,(),1.00,6:10a,7:10a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),1.55,10:20a,11:53a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),1.55,3:00p,4:33p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),1.57,7:30p,9:04p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),1.55,6:00a,7:33a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),1.55,7:25a,8:58a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.22,2:20p,4:33p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.30,10:20a,12:38p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.22,7:25a,9:38a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.47,7:30p,9:58p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.57,11:25a,1:59p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.57,6:30p,9:04p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.63,3:00p,5:38p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),2.97,6:00a,8:58a,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),3.30,2:20p,5:38p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),3.47,6:30p,9:58p,Southern Airways Express
+OGG,HNL,2019-12-15,74,1,(MKK),3.55,8:20a,11:53a,Southern Airways Express
+OGG,ITO,2019-12-14,124,0,(),0.65,5:11p,5:50p,Hawaiian Airlines
+OGG,ITO,2019-12-14,124,0,(),0.65,5:11p,5:50p,Hawaiian Airlines
+OGG,ITO,2019-12-14,124,0,(),0.63,7:59a,8:37a,Hawaiian Airlines
+OGG,ITO,2019-12-14,124,0,(),0.63,7:59a,8:37a,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.02,9:10a,11:11a,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.02,9:10a,11:11a,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.07,4:31p,6:35p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.07,4:31p,6:35p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.07,5:49p,7:53p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.07,5:49p,7:53p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.10,10:10a,12:16p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.10,10:10a,12:16p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.15,2:20p,4:29p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.15,2:20p,4:29p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.30,12:53p,3:11p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.30,12:53p,3:11p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.40,11:55a,2:19p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.40,11:55a,2:19p,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.35,6:55a,9:16a,Hawaiian Airlines
+OGG,ITO,2019-12-14,153,1,(HNL),2.35,6:55a,9:16a,Hawaiian Airlines
+OGG,ITO,2019-12-15,124,0,(),0.65,5:11p,5:50p,Hawaiian Airlines
+OGG,ITO,2019-12-15,124,0,(),0.65,5:11p,5:50p,Hawaiian Airlines
+OGG,ITO,2019-12-15,124,0,(),0.63,7:59a,8:37a,Hawaiian Airlines
+OGG,ITO,2019-12-15,124,0,(),0.63,7:59a,8:37a,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.02,9:10a,11:11a,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.02,9:10a,11:11a,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.07,4:31p,6:35p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.07,4:31p,6:35p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.07,5:49p,7:53p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.07,5:49p,7:53p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.10,10:10a,12:16p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.10,10:10a,12:16p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.15,2:20p,4:29p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.15,2:20p,4:29p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.30,12:53p,3:11p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.30,12:53p,3:11p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.40,11:55a,2:19p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.40,11:55a,2:19p,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.35,6:55a,9:16a,Hawaiian Airlines
+OGG,ITO,2019-12-15,153,1,(HNL),2.35,6:55a,9:16a,Hawaiian Airlines
+ITO,SEA,2019-12-14,344,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,344,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,349,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,354,1,(HNL),23.72,8:22p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-14,359,1,(HNL),27.12,4:58p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-14,362,2,"(HNL, SFO)",11.93,7:04p,9:00a,Hawaiian Airlines
+ITO,SEA,2019-12-14,362,2,"(HNL, SFO)",11.93,7:04p,9:00a,Hawaiian Airlines
+ITO,SEA,2019-12-14,369,1,(HNL),25.02,7:04p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-14,392,2,"(LAX, SFO)",10.57,10:51p,11:25a,United Airlines
+ITO,SEA,2019-12-14,397,2,"(HNL, LAX)",12.30,8:22p,10:40a,Hawaiian Airlines
+ITO,SEA,2019-12-14,397,2,"(HNL, LAX)",12.30,8:22p,10:40a,Hawaiian Airlines
+ITO,SEA,2019-12-14,403,2,"(HNL, SFO)",11.67,7:04p,8:44a,United Airlines
+ITO,SEA,2019-12-14,403,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,403,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,408,2,"(HNL, SFO)",12.67,6:20p,9:00a,Hawaiian Airlines
+ITO,SEA,2019-12-14,408,2,"(LAX, SFO)",14.10,10:51p,2:57p,United Airlines
+ITO,SEA,2019-12-14,416,2,"(HNL, LAX)",12.00,6:20a,8:20p,Hawaiian Airlines
+ITO,SEA,2019-12-14,416,2,"(HNL, LAX)",12.00,6:20a,8:20p,Hawaiian Airlines
+ITO,SEA,2019-12-14,418,2,"(HNL, LAX)",13.30,8:22p,11:40a,Hawaiian Airlines
+ITO,SEA,2019-12-14,418,2,"(HNL, LIH)",10.08,6:20p,6:25a,Hawaiian Airlines
+ITO,SEA,2019-12-15,324,1,(HNL),23.07,9:01p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,324,1,(HNL),23.07,9:01p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,329,1,(HNL),23.72,8:22p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,344,1,(HNL),24.37,7:43p,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,347,1,(HNL),10.33,9:45a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,347,1,(HNL),10.33,9:45a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,357,1,(OGG),27.92,5:40p,11:35p,Hawaiian Airlines
+ITO,SEA,2019-12-15,361,1,(HNL),8.42,11:40a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,361,1,(HNL),8.42,11:40a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,362,2,"(HNL, SFO)",12.78,7:43p,10:30a,Hawaiian Airlines
+ITO,SEA,2019-12-15,362,2,"(HNL, SFO)",12.78,7:43p,10:30a,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,378,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,389,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,389,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,SEA,2019-12-15,389,2,"(OGG, HNL)",11.53,8:33a,10:05p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),1.95,9:06a,11:03a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),1.95,9:06a,11:03a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),1.97,9:45a,11:43a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),1.97,9:45a,11:43a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.23,8:22p,10:36p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.23,8:22p,10:36p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.25,11:40a,1:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.25,11:40a,1:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.58,6:20p,8:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.58,6:20p,8:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.83,3:40p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.83,3:40p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.95,4:58p,7:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),2.95,4:58p,7:55p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),3.03,12:45p,3:47p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),3.03,12:45p,3:47p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),3.85,6:20a,10:11a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(HNL),3.85,6:20a,10:11a,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(OGG),4.82,8:33a,1:22p,Hawaiian Airlines
+ITO,LIH,2019-12-14,146,1,(OGG),4.82,8:33a,1:22p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),1.95,9:06a,11:03a,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),1.95,9:06a,11:03a,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),1.97,9:45a,11:43a,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),1.97,9:45a,11:43a,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.08,3:40p,5:45p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.08,3:40p,5:45p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.23,8:22p,10:36p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.23,8:22p,10:36p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.25,11:40a,1:55p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.25,11:40a,1:55p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.40,7:04p,9:28p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.40,7:04p,9:28p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.83,3:40p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),2.83,3:40p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.03,12:45p,3:47p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.03,12:45p,3:47p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.70,2:48p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.70,2:48p,6:30p,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.85,6:20a,10:11a,Hawaiian Airlines
+ITO,LIH,2019-12-15,146,1,(HNL),3.85,6:20a,10:11a,Hawaiian Airlines
+ITO,HNL,2019-12-14,101,0,(),0.88,8:22p,9:15p,Hawaiian Airlines
+ITO,HNL,2019-12-14,101,0,(),0.88,8:22p,9:15p,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,9:06a,10:00a,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,9:06a,10:00a,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,9:45a,10:39a,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,9:45a,10:39a,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,4:58p,5:52p,Hawaiian Airlines
+ITO,HNL,2019-12-14,106,0,(),0.90,4:58p,5:52p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.88,6:20p,7:13p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.88,6:20p,7:13p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.88,7:04p,7:57p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.88,7:04p,7:57p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,10:31a,11:25a,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,10:31a,11:25a,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,11:40a,12:34p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,11:40a,12:34p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,3:40p,4:34p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.90,3:40p,4:34p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.92,12:45p,1:40p,Hawaiian Airlines
+ITO,HNL,2019-12-14,116,0,(),0.92,12:45p,1:40p,Hawaiian Airlines
+ITO,HNL,2019-12-15,101,0,(),0.87,9:01p,9:53p,Hawaiian Airlines
+ITO,HNL,2019-12-15,101,0,(),0.87,9:01p,9:53p,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.88,8:22p,9:15p,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.88,8:22p,9:15p,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,9:06a,10:00a,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,9:06a,10:00a,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,9:45a,10:39a,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,9:45a,10:39a,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,4:58p,5:52p,Hawaiian Airlines
+ITO,HNL,2019-12-15,106,0,(),0.90,4:58p,5:52p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,6:20p,7:13p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,6:20p,7:13p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,7:04p,7:57p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,7:04p,7:57p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,7:43p,8:36p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.88,7:43p,8:36p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.90,10:31a,11:25a,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.90,10:31a,11:25a,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.90,11:40a,12:34p,Hawaiian Airlines
+ITO,HNL,2019-12-15,121,0,(),0.90,11:40a,12:34p,Hawaiian Airlines
+ITO,OGG,2019-12-14,124,0,(),0.65,8:33a,9:12a,Hawaiian Airlines
+ITO,OGG,2019-12-14,124,0,(),0.65,8:33a,9:12a,Hawaiian Airlines
+ITO,OGG,2019-12-14,124,0,(),0.67,5:40p,6:20p,Hawaiian Airlines
+ITO,OGG,2019-12-14,124,0,(),0.67,5:40p,6:20p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.00,6:20a,8:20a,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.00,6:20a,8:20a,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.13,6:20p,8:28p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.13,6:20p,8:28p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.17,11:40a,1:50p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.17,11:40a,1:50p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.18,12:45p,2:56p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.18,12:45p,2:56p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.20,4:58p,7:10p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.20,4:58p,7:10p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.25,9:45a,12:00p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.25,9:45a,12:00p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.27,8:22p,10:38p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.27,8:22p,10:38p,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.32,9:06a,11:25a,Hawaiian Airlines
+ITO,OGG,2019-12-14,153,1,(HNL),2.32,9:06a,11:25a,Hawaiian Airlines
+ITO,OGG,2019-12-15,124,0,(),0.65,8:33a,9:12a,Hawaiian Airlines
+ITO,OGG,2019-12-15,124,0,(),0.65,8:33a,9:12a,Hawaiian Airlines
+ITO,OGG,2019-12-15,124,0,(),0.67,5:40p,6:20p,Hawaiian Airlines
+ITO,OGG,2019-12-15,124,0,(),0.67,5:40p,6:20p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),1.90,7:43p,9:37p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),1.90,7:43p,9:37p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.00,6:20a,8:20a,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.00,6:20a,8:20a,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.13,6:20p,8:28p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.13,6:20p,8:28p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.17,11:40a,1:50p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.17,11:40a,1:50p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.17,7:04p,9:14p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.17,7:04p,9:14p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.18,12:45p,2:56p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.18,12:45p,2:56p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.20,4:58p,7:10p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.20,4:58p,7:10p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.25,9:45a,12:00p,Hawaiian Airlines
+ITO,OGG,2019-12-15,153,1,(HNL),2.25,9:45a,12:00p,Hawaiian Airlines
